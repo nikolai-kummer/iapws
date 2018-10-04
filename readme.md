@@ -29,3 +29,11 @@ Units should be:
 	* T, [K] 		= Temperature
 	* v, [m^3/kg] 	= Specific Volume
 	
+	
+### Usage Example:
+	from if97 import h2o
+	vf = h2o.vf(P)
+	vfg = h2o.vfg(P)
+	
+	
+	
