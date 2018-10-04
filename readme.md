@@ -21,3 +21,10 @@ Not implemented equations list:
 Not implemented unit testing list:
 * Wrapper consistancy (partials, sat, ext ...)
 * Region identifications
+
+
+### Note on Units:
+Units should be:
+	* P = [Mpa]
+	* T = [K]
+	
