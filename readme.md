@@ -25,6 +25,7 @@ Not implemented unit testing list:
 
 ### Note on Units:
 Units should be:
-	* P = [Mpa]
-	* T = [K]
+	* P, [Mpa] 		= Pressure
+	* T, [K] 		= Temperature
+	* v, [m^3/kg] 	= Specific Volume
 	
